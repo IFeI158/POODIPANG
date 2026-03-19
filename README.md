@@ -1,4 +1,4 @@
-# 🍱 FoodiPang (푸디팡)
+# 🍱 PoodiPang (푸디팡)
 
 한남대학교 디자인팩토리 CPD 수업 팀 프로젝트 (2024년 1학기)
 
@@ -31,7 +31,7 @@ ESP32-CAM 스트리밍
 ## 저장소 구조
 
 ```
-foodipang/
+Poodipang/
 ├── model/
 │   ├── model_unquant.tflite   TFLite 추론 모델
 │   ├── labels.txt             클래스 레이블 (5종)
@@ -112,11 +112,4 @@ python3 src/main.py
 
 ---
 
-## 팀 구성
 
-| 학과 | 인원 |
-|------|------|
-| 미디어영상학과 | 2명 |
-| 경영학과 | 1명 |
-| 기계공학과 | 2명 |
-| 디자인학과 | 2명 |
